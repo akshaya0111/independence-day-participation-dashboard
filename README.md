@@ -40,6 +40,11 @@ The dashboard provides insights into participants across different states, depar
 ![Independence Day Participation Dashboard](./Screenshot%202026-08-15%20221359.png)
 
 
+### ✨ AI-Enhanced Dashboard
+
+An AI-assisted enhanced version of the dashboard, created to improve the visual design, layout, and overall presentation.
+
+![AI-Enhanced Dashboard](Screenshot%202026-08-15%20225523.png)
 
 ## 👩‍💻 Author
 
