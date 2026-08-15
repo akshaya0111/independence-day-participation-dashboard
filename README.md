@@ -44,6 +44,7 @@ The dashboard provides insights into participants across different states, depar
 This enhanced version of the Independence Day Participation Tracker was created by improving the visual design and presentation using AI-assisted design tools.
 
 ![AI-Enhanced Dashboard](./AI-Enhanced-Dashboard.png)
+
 ## 👩‍💻 Author
 
 **Akshaya S**
