@@ -33,10 +33,11 @@ The dashboard provides insights into participants across different states, depar
 - Average Age
 - Average Feedback
 - Participation Percentage
-
 ## 🖼️ Dashboard Preview
 
-Dashboard screenshot will be added below.
+### Independence Day Participation Tracker
+
+![Independence Day Participation Dashboard](./Screenshot%202026-08-15%20221359.png)
 
 ## 👩‍💻 Author
 
